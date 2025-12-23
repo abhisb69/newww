@@ -113,7 +113,7 @@ export default function AdminPanel({ loggedIn, setLoggedIn }) {
   return (
     <div className="admin-container">
       <div className="admin-header">
-        <h2>Seraphic Admin</h2>
+        <h2>ELYSIA Admin</h2>
         <button className="logout-btn" onClick={handleLogout}>Logout</button>
       </div>
 
