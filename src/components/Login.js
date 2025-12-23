@@ -20,7 +20,7 @@ export default function Login({ setLoggedIn }) {
   return (
     <div className="login-container">
       <h2>Admin Login</h2>
-      <p>Seraphic Events & Production</p>
+      <p>ELYSIA</p>
 
       <input
         placeholder="Username"
